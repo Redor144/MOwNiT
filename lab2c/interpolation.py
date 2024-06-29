@@ -123,15 +123,9 @@ if __name__ == "__main__":
     plt.figure(figsize=(10,5))
     plt.scatter(XI,YI,c='black',label="Węzły interpolacji")
     plt.plot(X,YIVH,c='b',label="Wielomian Hermita")
-    # plt.plot(X,YIVL,c='r',label="Wielomian Lagrange'a")
     plt.plot(X,Y,c='g',label="Funkcja interpolowana")
     plt.legend(loc='best')
 
-    # if flag:
-    #     plt.title("Węzły zgodnie z Czebyszewem")
-    # else:
-    #     plt.title("Węzły równomierne")
-        
     diff_hermit = max_diff(Y,YIVH)
     diff_lagrange = max_diff(Y,YIVL)
     
