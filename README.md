@@ -1,6 +1,7 @@
 # MOwNiT
 
 Repozytorium zawiera sprawozdania oraz kod źródłowy laboratoriów u dr Głut z przedmiotu MOwNiT.
+
 Wzorujcie się jak nie pisać sprawozdań !!!
 
 ## Oceny za każde sprawozdanie:
