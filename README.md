@@ -1,7 +1,7 @@
 # MOwNiT
 
 Repozytorium zawiera sprawozdania oraz kod źródłowy laboratoriów u dr Głut z przedmiotu MOwNiT.
-Kod wymaga refraktoryzacji więc radzę się nim nie wzorować.
+Kod wymaga refraktoryzacji więc radzę się na nim nie wzorować.
 
 Wzorujcie się jak nie pisać sprawozdań !!!
 
